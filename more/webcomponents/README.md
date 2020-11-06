@@ -412,7 +412,7 @@ And while we're talking about gotchas...
 
 ## Browser Support
 
-Looking at our basic example snippets you may have a very valid question. ([demo](https://ellie-app.com/8Vw6BbYYpc4a1) 
+Looking at our basic example snippets you may have a very valid question
 
 ```javascript
 class MyElement extends HTMLElement {}
@@ -425,6 +425,7 @@ import Html
 element =
     Html.node "my-element" [] [ Html.text "Awesome!" ]
 ```
+TODO: Ellie
 
 > If that's all there is to it why do I even read this guide?
 
