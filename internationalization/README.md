@@ -15,7 +15,7 @@ Run the following commands:
 
 ```bash
 git clone https://github.com/elm-community/js-integration-examples.git
-cd js-integration-examples/internationalization
+cd js-integration-examples/websockets
 
 elm make src/Main.elm --output=elm.js
 open index.html
