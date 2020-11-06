@@ -144,7 +144,7 @@ import Html.Attributes
 
 element =
     Html.node "twbs-alert"
-        [ Html.Attributes.attribute "type" "info"
+        [ Html.Attributes.attribute "type" "primary"
         -- or Html.Attributes.type_ "info"
         ]
         []
